@@ -3,60 +3,64 @@
 using namespace std;
 
 class Solution {
-    struct CM {
+    struct Info {
         int v = 0;
         int e = 0;
 
         void add(int d) {
-            v += 1;
+            v++;
             e += d;
         }
 
-        bool ok() const {
-            if (v == 0) return false;
-            return e == (v * (v - 1));
+        bool ok() {
+            return v > 0 && e == v * (v - 1);
         }
     };
 
-    class NA {
-        vector<vector<int>> g;
+    struct Solver {
+        vector<vector<int>> adj;
         vector<bool> vis;
+        vector<int> left;
 
-        void dfs(int u, CM& m) {
+        Solver(int n, vector<vector<int>>& edges) {
+            adj.resize(n);
+            vis.assign(n, false);
+            for (auto& ed : edges) {
+                adj[ed[0]].push_back(ed[1]);
+                adj[ed[1]].push_back(ed[0]);
+            }
+            for (int i = 0; i < n; i++) {
+                left.push_back(i);
+            }
+        }
+
+        void dfs(int u, Info& info) {
             vis[u] = true;
-            m.add(g[u].size());
-
-            for (int nxt : g[u]) {
-                if (!vis[nxt]) {
-                    dfs(nxt, m);
-                }
+            info.add(adj[u].size());
+            for (int nxt : adj[u]) {
+                if (!vis[nxt]) dfs(nxt, info);
             }
         }
 
-    public:
-        NA(int n, const vector<vector<int>>& ed) 
-            : g(n), vis(n, false) {
-            for (const auto& edge : ed) {
-                g[edge[0]].push_back(edge[1]);
-                g[edge[1]].push_back(edge[0]);
+        int calc() {
+            int ans = 0;
+            while (!left.empty()) {
+                int cur = left.back();
+                left.pop_back();
+                
+                if (vis[cur]) continue;
+                
+                Info info;
+                dfs(cur, info);
+                if (info.ok()) ans++;
             }
-        }
-
-        int rec(int i) {
-            if (i >= g.size()) return 0;
-            if (vis[i]) return rec(i + 1);
-
-            CM m;
-            dfs(i, m);
-            
-            int res = m.ok() ? 1 : 0;
-            return res + rec(i + 1);
+            return ans;
         }
     };
 
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        NA a(n, edges);
-        return a.rec(0);
+        Solver s(n, edges);
+        return s.calc();
     }
 };
