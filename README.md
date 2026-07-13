@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/raghavgupta06/DSA/tree/master/0402-remove-k-digits) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raghavgupta06/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -96,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/raghavgupta06/DSA/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/raghavgupta06/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/raghavgupta06/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/raghavgupta06/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/raghavgupta06/DSA/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/raghavgupta06/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/raghavgupta06/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/raghavgupta06/DSA/tree/master/0402-remove-k-digits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/raghavgupta06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
