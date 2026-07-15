@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/raghavgupta06/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0312-burst-balloons](https://github.com/raghavgupta06/DSA/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/raghavgupta06/DSA/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/raghavgupta06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/raghavgupta06/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/raghavgupta06/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/raghavgupta06/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0312-burst-balloons](https://github.com/raghavgupta06/DSA/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/raghavgupta06/DSA/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/raghavgupta06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/raghavgupta06/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/raghavgupta06/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/raghavgupta06/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/raghavgupta06/DSA/tree/master/0410-split-array-largest-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raghavgupta06/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/raghavgupta06/DSA/tree/master/0410-split-array-largest-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/raghavgupta06/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/raghavgupta06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/raghavgupta06/DSA/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/raghavgupta06/DSA/tree/master/0410-split-array-largest-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/raghavgupta06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
