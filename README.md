@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raghavgupta06/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raghavgupta06/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/raghavgupta06/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1872-stone-game-viii](https://github.com/raghavgupta06/DSA/tree/master/1872-stone-game-viii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/raghavgupta06/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghavgupta06/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/raghavgupta06/DSA/tree/master/2029-stone-game-ix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/raghavgupta06/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raghavgupta06/DSA/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/raghavgupta06/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1872-stone-game-viii](https://github.com/raghavgupta06/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/raghavgupta06/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/raghavgupta06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/raghavgupta06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/raghavgupta06/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raghavgupta06/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raghavgupta06/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raghavgupta06/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raghavgupta06/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raghavgupta06/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/raghavgupta06/DSA/tree/master/2029-stone-game-ix) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raghavgupta06/DSA/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/raghavgupta06/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/raghavgupta06/DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/raghavgupta06/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/raghavgupta06/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/raghavgupta06/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raghavgupta06/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raghavgupta06/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raghavgupta06/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/raghavgupta06/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/raghavgupta06/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/raghavgupta06/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raghavgupta06/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raghavgupta06/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raghavgupta06/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raghavgupta06/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -311,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/raghavgupta06/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/raghavgupta06/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/raghavgupta06/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/raghavgupta06/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/raghavgupta06/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
