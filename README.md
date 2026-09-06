@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/raghavgupta06/DSA/tree/master/0115-distinct-subsequences) |
 | [0312-burst-balloons](https://github.com/raghavgupta06/DSA/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/raghavgupta06/DSA/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/raghavgupta06/DSA/tree/master/0410-split-array-largest-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/raghavgupta06/DSA/tree/master/0115-distinct-subsequences) |
 | [0402-remove-k-digits](https://github.com/raghavgupta06/DSA/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raghavgupta06/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/raghavgupta06/DSA/tree/master/1927-sum-game) |
