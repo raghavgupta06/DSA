@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/raghavgupta06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/raghavgupta06/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/raghavgupta06/DSA/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/raghavgupta06/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/raghavgupta06/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/raghavgupta06/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/raghavgupta06/DSA/tree/master/1140-stone-game-ii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/raghavgupta06/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/raghavgupta06/DSA/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/raghavgupta06/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
