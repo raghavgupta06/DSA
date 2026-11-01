@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/raghavgupta06/DSA/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/raghavgupta06/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/raghavgupta06/DSA/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/raghavgupta06/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/raghavgupta06/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/raghavgupta06/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/raghavgupta06/DSA/tree/master/0877-stone-game) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/raghavgupta06/DSA/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/raghavgupta06/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/raghavgupta06/DSA/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/raghavgupta06/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/raghavgupta06/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/raghavgupta06/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raghavgupta06/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
